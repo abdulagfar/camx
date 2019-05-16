@@ -1,0 +1,7 @@
+README.md
+setup.py
+camx.egg-info/PKG-INFO
+camx.egg-info/SOURCES.txt
+camx.egg-info/dependency_links.txt
+camx.egg-info/entry_points.txt
+camx.egg-info/top_level.txt
